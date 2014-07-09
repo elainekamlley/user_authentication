@@ -1,3 +1,10 @@
+user_authentication 
+=======================
+This Django app is for practicing user authentication and authorization features. 
+
+
+Conceptual Questions:
+
 (1) In web app security, what's the difference between "authorization" and "authentication"?
 	
 	Authentication verifies a user is who they claim to be, and authorization determines what an authenticated user is allowed to do. 
